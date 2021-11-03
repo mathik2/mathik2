@@ -1,5 +1,7 @@
 ### Hi there 👋
+<img src="brown-bear-typing.gif" alt="bearimage">
 
+<h1>Hi!!! I am Mathivathana <h1>
 <!--
 **mathik2/mathik2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
