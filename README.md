@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img src="brown-bear-typing.gif" alt="bearimage">
 
-<h1>Hi!!! I am Mathivathana <h1>
+<h1> I am Mathivathana <h1>
   <h1 align="center">Hi 👋, I'm Mathivathana</h1>
 <h3 align="center">Interested in Web development especially frontend developement.</h3>
 
