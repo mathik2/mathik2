@@ -29,7 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mathik2&show_icons=true&locale=en" alt="mathik2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathik2&" alt="mathik2" /></p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mathik2&label=Profile%20views&color=0e75b6&style=flat" alt="mathik2" /> </p>
 <!--
 **mathik2/mathik2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
