@@ -3,11 +3,11 @@
 
 <h1> I am Mathivathana <h1>
   <h1 align="center">Hi 👋, I'm Mathivathana</h1>
-<h3 align="center">Interested in Web development especially frontend developement.</h3>
+<h3 align="center">Having 3+ years of experience in IT, from build -> test -> deploy, Python(flask), testing also Interested in Web development especially frontend developement.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mathik2" alt="mathik2" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend Frameworks**
+- 🌱 I’m currently learning **Frontend Frameworks, AI**
 
 - 👨‍💻 All of my projects are available at [https://mathivathana.netlify.app/](https://mathivathana.netlify.app/)
 
