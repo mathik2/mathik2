@@ -31,8 +31,9 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/cloudgoogle/cloudgoogle-icon.svg" alt="gcp" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Cloud_logo.svg" alt="gcp" width="40" height="40"/>
 </a>
+
 <a href="https://redis.io/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
 </a>
